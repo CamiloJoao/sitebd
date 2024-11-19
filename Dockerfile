@@ -13,4 +13,4 @@ RUN ./mvnw package
 
 RUN ls -l ./target
 
-CMD ["java","-jar","target/sitebdnew.war"]
+CMD ["java","-jar","target/sitebdnew-0.0.1-SNAPSHO.war"]
